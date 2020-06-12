@@ -1,0 +1,23 @@
+{
+  "name": "graphql-library",
+  "version": "1.0.0",
+  "description": "GraphQL library backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development nodemon index.js",
+    "test": "test"
+  },
+  "author": "fogre",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.14.1",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.18",
+    "mongoose-unique-validator": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

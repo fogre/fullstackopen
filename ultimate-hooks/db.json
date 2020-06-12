@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "content": "this is very handy",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Tate Test",
+      "number": "0102030203",
+      "id": 2
+    },
+    {
+      "name": "Taiga Test",
+      "number": "020130123",
+      "id": 3
+    }
+  ]
+}

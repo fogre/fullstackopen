@@ -1,0 +1,14 @@
+.env
+*/.env
+mongo.js
+*/mongo.js
+/.idea
+# dependencies
+/node_modules
+*/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+*/coverage
